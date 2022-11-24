@@ -1,9 +1,9 @@
 {
-  "link" : "",
-  "name" : "ExtensionName",
+  "link" : "https://github.com/MattPryze/WorldSettingsDescriptions",
+  "name" : "World Settings Descriptions",
   "version" : 1,
-  "author" : "",
-  "description" : "",
+  "author" : "Matt Pryze",
+  "description" : "Describes world settings tags.",
   "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
   "extension_types" : ["NBT_EDITOR_STYLE"]
   "tags" : []
